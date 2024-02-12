@@ -4,5 +4,5 @@ This is a training project, which was created and modified in the course of stud
 interaction with the database using JDBC. Thanks to this project, it was possible to learn:
  - basic actions with the database in the application
  - try-with-resources construct
- - Statement
+ - statement
  - DAO pattern
